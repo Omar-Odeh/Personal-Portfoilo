@@ -7,11 +7,6 @@
     margin-bottom: 24px;
     align-self: flex-end;
 }
-.intro-container > div{
-    font-family: 'Heebo';
-    font-style: normal;
-    color: #000000;
-}
 .firstLine{
     display: flex;
 }
@@ -48,37 +43,6 @@
 .home-img-container > img{
     width: 100%;
     height: 100%;
-}
-.social-container{
-    width: 304px;
-    height: 34px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-.social-container > div > img{
-    width: 100%;
-    height: 100%;
-}
-.email-logo{
-    width: 28.33px;
-    height: 22.67px;
-}
-.gitHub-logo{
-    width: 28px;
-    height: 23px;
-}
-.linkedIn-logo{
-    width: 28px;
-    height: 27px;
-}
-.instagram-logo{
-    width: 27px;
-    height: 27px;
-}
-.behance-logo{
-    width: 29px;
-    height: 20px;
 }
 .mouse-icon-container{
     width: 100%;

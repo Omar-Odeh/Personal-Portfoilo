@@ -1,21 +1,3 @@
-.projects-container{
-    margin: 62px 8.4375%;
-}
-.title{
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 900;
-    font-size: 85px;
-    line-height: 125px;
-}
-.description{
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 31px;
-    line-height: 46px;
-    color: #000000;
-}
 .cards-container{
     margin-top: 87px;
     display: flex;
@@ -33,8 +15,6 @@
 }
 .card-title{
     margin-top: 14px;
-    font-family: 'Heebo';
-    font-style: normal;
     font-weight: 800;
     font-size: 24px;
     line-height: 35px;
@@ -42,8 +22,6 @@
 .card-description{
     margin-bottom: 14px;
     height: 31px;
-    font-family: 'Heebo';
-    font-style: normal;
     font-weight: 400;
     font-size: 15px;
     line-height: 22px;
@@ -60,8 +38,6 @@
     width: 48.402556%;
     box-sizing: border-box;
     border: 2px solid #000000;
-    font-family: 'Heebo';
-    font-style: normal;
     font-weight: 400;
     font-size: 24px;
     line-height: 35px;
