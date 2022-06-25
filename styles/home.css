@@ -3,7 +3,7 @@
     justify-content: space-between;
 }
 .intro-container{
-    height: 217px;
+    min-height: 217px;
     margin-bottom: 24px;
     align-self: flex-end;
 }

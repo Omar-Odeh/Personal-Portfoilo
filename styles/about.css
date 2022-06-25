@@ -4,7 +4,7 @@
   align-items: flex-start;
   margin-top: 53px;
   gap: 9.47916667%;
-  height: 752px;
+  min-height: 752px;
 }
 .about-img-container > p {
   font-weight: 400;
@@ -42,7 +42,6 @@
   font-size: 24px;
   line-height: 35px;
 }
-
 .columns-details{
   display: flex;
   font-weight: 400;
@@ -65,7 +64,7 @@
   width: 39.22306%;
 }
 .quote-content {
-  height: 324px;
+  min-height: 324px;
   font-family: "Grape Nuts";
   font-style: normal;
   font-weight: 400;
