@@ -8,12 +8,16 @@
 .footer{
     display: flex;
     justify-content: space-between;
+    align-items: center;
     width: 100%;
-    margin: 92px 8.4375% 95px 8.4375%;
+    margin: 92px 8.4375%;
 }
 .footer-text{
     font-weight: 200;
     font-size: 24px;
     line-height: 35px;
     color: #EFEFEF;
+}
+.footer > .social-container {
+    padding-right: -1px;
 }
